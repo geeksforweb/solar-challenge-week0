@@ -156,6 +156,6 @@ For any questions or issues, please create an issue in the repository or contact
 
 # Prepared bY: Gashaw Getaneh
 
-# gitHub link:
+# gitHub link: https://github.com/geeksforweb/solar-challenge-week0
 
 Date Nov 12,2025
