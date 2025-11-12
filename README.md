@@ -118,6 +118,8 @@ Folder Structure
 ├── README.md
 └── tests/
 
+![alt text](<folder structure.png>)
+
 Key Performance Indicators (KPIs)
 
 EDA:
